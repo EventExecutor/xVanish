@@ -1,0 +1,8 @@
+it\nash\xvanish\utils\MessageUtils.class
+it\nash\xvanish\commands\VanishCommand.class
+it\nash\xvanish\listeners\PlayerListener.class
+it\nash\xvanish\tasks\HashRateTask.class
+it\nash\xvanish\config\ConfigManager.class
+it\nash\xvanish\managers\VanishManager.class
+it\nash\xvanish\managers\PlayerState.class
+it\nash\xvanish\XVanish.class

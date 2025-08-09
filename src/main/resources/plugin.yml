@@ -1,0 +1,7 @@
+name: xVanish
+version: '${project.version}'
+main: it.nash.xvanish.XVanish
+commands:
+  vanish:
+    aliases:
+      - v

@@ -1,0 +1,7 @@
+name: xVanish
+version: '1.0-SNAPSHOT'
+main: it.nash.xvanish.XVanish
+commands:
+  vanish:
+    aliases:
+      - v

@@ -116,7 +116,10 @@ xvanish.list  # Vede la lista dei vanished
 
 ---
 
-## ⚙️ Configurazione (esempio `config.yml`)
+## ⚙️ Configuration
+
+<details>
+  <summary>Show Config</summary>
 
 ```yaml
 messages:
@@ -149,7 +152,8 @@ events:
   entity_target: true
   toggle_flight: true
   hide_from_tablist: true
-```
+ ```
+</details>
 
 **Opzioni importanti**
 

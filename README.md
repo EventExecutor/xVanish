@@ -34,7 +34,7 @@
 
 **Minecraft**
 - Server: **Spigot** o **Paper**  
-- Versioni supportate: **1.13.x — 1.21.x**  
+- Versioni supportate: **1.8.x — 1.17.x**  
 - Dipendenze: *Nessuna* (plugin standalone)
 
 **Sviluppo**
